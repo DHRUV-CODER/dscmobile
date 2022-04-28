@@ -1,6 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=dscmobile)
 # Display your Bot's status as Mobile
 
+![img1](https://user-images.githubusercontent.com/60794694/165765114-fdf4d0bc-39b5-43e1-90f0-aa8cddb72ba1.JPG)
+
+![img2](https://user-images.githubusercontent.com/60794694/165764912-46508cf8-0d76-4391-b391-d803e70e0e0d.JPG)
+
 ### Steps :
  - Clone the [repo](https://github.com/DHRUV-CODER/dscmobile/archive/refs/heads/main.zip) or `git clone https://github.com/DHRUV-CODER/dscmobile.git`
  - `pip3 install -r requirements.txt` or `pip install -r requirements.txt`
