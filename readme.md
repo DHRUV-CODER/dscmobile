@@ -5,7 +5,7 @@
 
 ![img2](https://user-images.githubusercontent.com/60794694/165764912-46508cf8-0d76-4391-b391-d803e70e0e0d.JPG)
 
-#Running it on Bot , Legal
+# Running it on Bot , Legal
 
 ### Steps :
  - Clone the [repo](https://github.com/DHRUV-CODER/dscmobile/archive/refs/heads/main.zip) or `git clone https://github.com/DHRUV-CODER/dscmobile.git`
